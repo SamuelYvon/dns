@@ -1,3 +1,5 @@
+# DNS
+
 My C implementation of a DNS resolver.
 
 Follows https://implement-dns.wizardzines.com/
